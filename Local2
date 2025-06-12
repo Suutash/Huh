@@ -1,0 +1,7 @@
+local Games = {
+  [13772394625] = "https://infernium.xyz/Blade.lua", -- Blade Ball
+  [4282985734] = "https://infernium.xyz/cwfree.lua", -- Combat Warriors
+  [10449761463] = "https://infernium.xyz/tsb.lua",  -- The Strongest Battlegrounds
+}
+
+return Games
